@@ -2,9 +2,9 @@
 ##Common Design Patterns implemented in Javascript
 
 ### Creational Patterns:
-1. Singleton
-2. Factory
-3. Abstract Factory
+1. Singleton &#x2713;
+2. Factory &#x2713;
+3. Abstract Factory &#x2713;
 4. Builder
 
 ### Structural Patterns:
@@ -15,7 +15,7 @@
 5. Facade
 6. Proxy
 
-### Behavioral Pstterns:
+### Behavioral Patterns:
 1. Chain of Responsibility
 2. Command
 3. Iterator
