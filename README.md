@@ -6,6 +6,7 @@
 2. Factory
 3. Abstract Factory
 4. Builder
+
 ### Structural Patterns:
 1. Adapter
 2. Bridge
@@ -13,6 +14,7 @@
 4. Decorator
 5. Facade
 6. Proxy
+
 ### Behavioral Pstterns:
 1. Chain of Responsibility
 2. Command

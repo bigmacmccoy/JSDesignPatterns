@@ -1,18 +1,19 @@
 // Singleton.js
 
-var singleton = function singleton(singletonName) {
-	if(singleton.prototype._instance){
-		return singleton.prototype._instance;
-	}
-	singleton.prototype._instance = this;
-
-	this.Name = singletonName;
-	this.printName = function(){
-		console.log(this.Name)
-	};
+function singleton(name){
+    if(this.instance){
+        return this.instance;
+    }else{
+        this.instance = this
+        this.name = name;
+    }
+    this.toString = function(){
+      return this.name;  
+    };
+    return this;
 }
 
-var foo = new singleton("Foo");
-foo.printName();
-var bar = new singleton("Bar");
-bar.printName();
+var foo = singleton("Foo");
+console.log(foo.toString());
+var bar = singleton("Bar");
+console.log(bar.toString());
