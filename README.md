@@ -5,7 +5,7 @@
 1. Singleton &#x2713;
 2. Factory &#x2713;
 3. Abstract Factory &#x2713;
-4. Builder
+4. Builder &#x2713;
 
 ### Structural Patterns:
 1. Adapter
