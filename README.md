@@ -9,7 +9,7 @@
 
 ### Structural Patterns:
 1. Adapter &#x2713;
-2. Bridge
+2. Bridge &#x2713;
 3. Composite
 4. Decorator
 5. Facade
