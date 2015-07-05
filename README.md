@@ -8,7 +8,7 @@
 4. Builder &#x2713;
 
 ### Structural Patterns:
-1. Adapter
+1. Adapter &#x2713;
 2. Bridge
 3. Composite
 4. Decorator
