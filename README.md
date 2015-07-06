@@ -11,7 +11,7 @@
 1. Adapter &#x2713;
 2. Bridge &#x2713;
 3. Composite &#x2713;
-4. Decorator
+4. Decorator &#x2713;
 5. Facade
 6. Proxy
 
